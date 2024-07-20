@@ -1,0 +1,716 @@
+.screenshot20240503103708DIcon {
+  align-self: stretch;
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byRoshan {
+  position: relative;
+  line-height: 24px;
+}
+.byRoshan3May2024Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs-2);
+}
+.delegatingSocialMedia {
+  position: relative;
+  line-height: 28.8px;
+}
+.howeverTheDemands,
+.inTodaysDigital,
+.presenceIsCrucial {
+  margin: 0;
+}
+.inTodaysDigitalContainer {
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.delegatingSocialMediaTasksParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-5);
+  font-size: var(--font-size-lg-2);
+  color: var(--color-gray-100);
+}
+.readMore {
+  position: relative;
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 96px;
+}
+.firstRecentPostDetails,
+.firstRecentPostImages {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs-4);
+  max-width: 100%;
+}
+.firstRecentPostImages {
+  gap: var(--gap-base-5);
+  font-size: var(--font-size-mini);
+}
+.screenshot20240423180054KIcon {
+  align-self: stretch;
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byVarshita {
+  position: relative;
+  line-height: 24px;
+}
+.fourthRecentPostImages {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs-2);
+}
+.summerFashionTips {
+  position: relative;
+  line-height: 28.8px;
+}
+.ofTheSeason,
+.shedThoseHeavy,
+.summerHasArrived {
+  margin: 0;
+}
+.summerHasArrivedContainer {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.summerFashionTipsDressingParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-5);
+  font-size: var(--font-size-lg-3);
+  color: var(--color-gray-100);
+}
+.readMore1 {
+  position: relative;
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 96px;
+}
+.fourthRecentPostImagesParent,
+.thirdRecentPost {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs-4);
+  max-width: 100%;
+}
+.thirdRecentPost {
+  gap: var(--gap-base-5);
+}
+.screenshot20240423180503QIcon {
+  align-self: stretch;
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byVarshita1,
+.whyBrandsShould {
+  position: relative;
+  line-height: 24px;
+}
+.whyBrandsShould {
+  line-height: 29px;
+}
+.whyBrandsShouldPartnerWithWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs-9);
+}
+.brewingBetweenBrands,
+.inTheDigital,
+.theWayBusinesses {
+  margin: 0;
+}
+.inTheDigitalContainer,
+.readMore2 {
+  position: relative;
+  font-size: var(--font-size-mini-9);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.readMore2 {
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  color: var(--color-coral-100);
+  display: inline-block;
+  min-width: 96px;
+}
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-4xs-4);
+  font-size: var(--font-size-lg-2);
+  color: var(--color-gray-100);
+}
+.firstRecentPost,
+.frameParent,
+.screenshot20240423180503QParent {
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.screenshot20240423180503QParent {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap-base-6);
+}
+.firstRecentPost {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  gap: var(--gap-base);
+  grid-template-columns: repeat(3, minmax(335px, 1fr));
+}
+.metaBbe7znpngIcon {
+  align-self: stretch;
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byVarshita2 {
+  position: relative;
+  line-height: 24px;
+}
+.byVarshita20April2024Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs-2);
+}
+.introducingMetaAi {
+  position: relative;
+  line-height: 28.8px;
+}
+.inTheFastEvolving,
+.intoTheCapabilities,
+.standsOutAs {
+  margin: 0;
+}
+.inTheFastEvolvingContainer {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.introducingMetaAiYourNewParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-5);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.readMore3 {
+  position: relative;
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 96px;
+}
+.frameContainer,
+.metaBbe7znpngParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs-4);
+  max-width: 100%;
+}
+.metaBbe7znpngParent {
+  width: 446.9px;
+  gap: var(--gap-base-5);
+  min-width: 446.9px;
+}
+.driedlakeFwsv41pngIcon {
+  align-self: stretch;
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byVarshita3 {
+  position: relative;
+  line-height: 24px;
+}
+.byVarshita8April2024Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs-2);
+}
+.bangaloresWeatherAnd {
+  position: relative;
+  line-height: 28.8px;
+}
+.chaiLeftOn,
+.techHubsAnd,
+.theHeatwaveHits {
+  margin: 0;
+}
+.theHeatwaveHitsContainer {
+  position: relative;
+  font-size: var(--font-size-mini-9);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.bangaloresWeatherAndWaterParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-5);
+  font-size: var(--font-size-lg-3);
+  color: var(--color-gray-100);
+}
+.readMore4 {
+  position: relative;
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 96px;
+}
+.driedlakeFwsv41pngParent,
+.thirdRecentPostDetails {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.thirdRecentPostDetails {
+  align-self: stretch;
+  gap: var(--gap-4xs-4);
+}
+.driedlakeFwsv41pngParent {
+  flex: 1;
+  gap: var(--gap-base-5);
+  min-width: 291px;
+  max-width: 100%;
+}
+.skin1Q6n7arpngIcon {
+  align-self: stretch;
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byVarshita4 {
+  position: relative;
+  line-height: 24px;
+}
+.byVarshita6April2024Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs-2);
+}
+.whyNaturalSkin {
+  position: relative;
+  line-height: 29px;
+}
+.areChoosingNatural,
+.theMagicOf,
+.theseProductsAre {
+  margin: 0;
+}
+.theMagicOfContainer {
+  position: relative;
+  font-size: var(--font-size-mini-9);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.whyNaturalSkinCareIsGoodParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-3);
+  font-size: var(--font-size-lg-5);
+  color: var(--color-gray-100);
+}
+.readMore5 {
+  position: relative;
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 96px;
+}
+.frameDiv,
+.frameParent1,
+.skin1Q6n7arpngParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameParent1 {
+  align-self: stretch;
+  gap: var(--gap-4xs-4);
+}
+.frameDiv,
+.skin1Q6n7arpngParent {
+  flex: 1;
+  gap: var(--gap-base-5);
+  min-width: 291px;
+}
+.frameDiv {
+  flex-direction: row;
+  gap: var(--gap-base-1);
+  min-width: 591px;
+}
+.frameGroup,
+.robo1Ewko6upngIcon {
+  align-self: stretch;
+  max-width: 100%;
+}
+.frameGroup {
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  grid-template-columns: repeat(3, minmax(335px, 1fr));
+}
+.robo1Ewko6upngIcon {
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byAbhishekSairam,
+.devinTheFirst {
+  position: relative;
+  line-height: 24px;
+}
+.devinTheFirst {
+  line-height: 29px;
+}
+.devinTheFirstAiSoftwareWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs-9);
+}
+.emergedReshapingThe,
+.introducingDevinThe,
+.ofArtificialIntelligence {
+  margin: 0;
+}
+.introducingDevinTheContainer,
+.readMore6 {
+  position: relative;
+  font-size: var(--font-size-mini-9);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.readMore6 {
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  color: var(--color-coral-100);
+  display: inline-block;
+  min-width: 96px;
+}
+.robo1Ewko6upngParent,
+.secondRecentPost {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.secondRecentPost {
+  gap: var(--gap-4xs-4);
+  font-size: var(--font-size-mid-9);
+  color: var(--color-gray-100);
+}
+.robo1Ewko6upngParent {
+  width: 446.9px;
+  gap: var(--gap-base-5);
+  min-width: 446.9px;
+}
+.screenshot20240503104922KIcon {
+  align-self: stretch;
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byVarshita5 {
+  position: relative;
+  line-height: 24px;
+}
+.byVarshita21March2024Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs-2);
+}
+.nationalCreatorsAward {
+  position: relative;
+  line-height: 28.8px;
+}
+.contentAFew,
+.nightSkyThe,
+.theGrandDebutin {
+  margin: 0;
+}
+.theGrandDebutinContainer {
+  position: relative;
+  font-size: var(--font-size-mini-8);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.nationalCreatorsAward2024Parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-5);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.readMore7 {
+  position: relative;
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 96px;
+}
+.frameParent4,
+.screenshot20240503104922KParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent4 {
+  align-self: stretch;
+  gap: var(--gap-4xs-4);
+}
+.screenshot20240503104922KParent {
+  flex: 1;
+  gap: var(--gap-base-5);
+  min-width: 291px;
+  max-width: 100%;
+}
+.ression5VwypjjpngIcon {
+  align-self: stretch;
+  height: 480px;
+  position: relative;
+  border-radius: var(--br-base);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.byVarshita6 {
+  position: relative;
+  line-height: 24px;
+}
+.byVarshita15March2024Wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs-2);
+}
+.recessionInIndia {
+  position: relative;
+  line-height: 28.8px;
+}
+.curryInThe,
+.itselfNavigatingTurbule,
+.recessionInIndia1 {
+  margin: 0;
+}
+.recessionInIndiaContainer {
+  position: relative;
+  font-size: var(--font-size-mini-9);
+  line-height: 19.2px;
+  color: var(--color-slategray);
+}
+.recessionInIndia2024ARolParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-5);
+  font-size: var(--font-size-lg-3);
+  color: var(--color-gray-100);
+}
+.readMore8 {
+  position: relative;
+  font-size: var(--font-size-base-8);
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 96px;
+}
+.frameParent5,
+.ression5VwypjjpngParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent5 {
+  align-self: stretch;
+  gap: var(--gap-4xs-4);
+}
+.ression5VwypjjpngParent {
+  flex: 1;
+  gap: var(--gap-base-5);
+  min-width: 291px;
+  max-width: 100%;
+}
+.frameParent3 {
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-base-1);
+  min-width: 591px;
+}
+.footer,
+.frameParent2,
+.frameParent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameParent2 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-base);
+  font-size: var(--font-size-mini-9);
+}
+.footer {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-2xs-2);
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-mini-6);
+  color: var(--color-coral-100);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .firstRecentPost {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(335px, 581px));
+  }
+  .metaBbe7znpngParent {
+    flex: 1;
+  }
+  .frameGroup {
+    flex-wrap: wrap;
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(335px, 581px));
+  }
+  .robo1Ewko6upngParent {
+    flex: 1;
+  }
+  .frameParent2 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .frameDiv,
+  .frameParent3 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .firstRecentPost {
+    grid-template-columns: minmax(335px, 1fr);
+  }
+  .frameDiv,
+  .metaBbe7znpngParent {
+    min-width: 100%;
+  }
+  .frameGroup {
+    grid-template-columns: minmax(335px, 1fr);
+  }
+  .frameParent3,
+  .robo1Ewko6upngParent {
+    min-width: 100%;
+  }
+}

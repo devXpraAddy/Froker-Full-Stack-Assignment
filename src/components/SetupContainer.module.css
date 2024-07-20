@@ -1,0 +1,227 @@
+.group11712773253Esqqe8pngIcon,
+.group1171277328QlzmqmpngIcon {
+  position: absolute;
+  top: 300px;
+  left: 192px;
+  width: 320px;
+  height: 319.1px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.group1171277328QlzmqmpngIcon {
+  top: 24px;
+  left: 384px;
+  z-index: 1;
+}
+.group11712773243Vlzmi7pngIcon,
+.group11712773272McjhltpngIcon {
+  position: absolute;
+  top: 264px;
+  left: 172.8px;
+  width: 320px;
+  height: 309.9px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.group11712773243Vlzmi7pngIcon {
+  top: 0;
+  left: 0;
+  height: 304.7px;
+  z-index: 1;
+}
+.signupImagePairOne {
+  position: absolute;
+  top: 24px;
+  left: 1171.2px;
+  width: 492.8px;
+  height: 573.9px;
+}
+.group1171277334W2tnjcpngIcon,
+.rightdownbagEbpyivpngIcon {
+  position: absolute;
+  top: 0;
+  left: 297.6px;
+  width: 320px;
+  height: 311.7px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.rightdownbagEbpyivpngIcon {
+  top: 108px;
+  left: 0;
+  height: 305.7px;
+  z-index: 1;
+}
+.signupImagePairTwo {
+  position: absolute;
+  top: 612px;
+  left: 960px;
+  width: 617.6px;
+  height: 413.7px;
+}
+.group11712773231Mor1xwpngIcon {
+  position: absolute;
+  top: 720px;
+  left: 384px;
+  width: 320px;
+  height: 329.3px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.earnMoneyBy,
+.whatYouLove {
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  height: 48px;
+}
+.earnMoneyBy {
+  position: absolute;
+  top: 459.2px;
+  left: 694.4px;
+  width: 532px;
+  z-index: 2;
+}
+.whatYouLove {
+  top: 531.2px;
+  left: 820.6px;
+  font-size: var(--font-size-27xl-9);
+  text-align: center;
+  justify-content: center;
+  width: 341px;
+}
+.background,
+.signUpFor,
+.whatYouLove {
+  position: absolute;
+  z-index: 2;
+}
+.signUpFor {
+  top: 603.2px;
+  left: 731px;
+  font-size: var(--font-size-11xl);
+  line-height: 36px;
+  font-weight: 500;
+  color: var(--color-darkslategray-200);
+  display: flex;
+  align-items: center;
+  width: 458.1px;
+  height: 72px;
+}
+.background {
+  top: 683.2px;
+  left: 863px;
+}
+.container {
+  height: 1200px;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+}
+.overlay {
+  align-self: stretch;
+  background-color: var(--color-orangered-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frequentlyAskedQuestions {
+  align-self: stretch;
+  position: relative;
+  line-height: 36px;
+  flex-shrink: 0;
+}
+.setupSubtitleContainer {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-27xl-8) 0 0;
+  box-sizing: border-box;
+  min-width: 264px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.untitledDesign20240320t1Icon {
+  height: 129.8px;
+  width: 230.4px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.setupContainer,
+.stepFour,
+.stepOne {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.stepFour {
+  width: 636.2px;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.setupContainer,
+.stepOne {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-3xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-10xl-2);
+  color: var(--color-coral-200);
+}
+.setupContainer {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-lgi-9);
+  gap: var(--gap-21xl);
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-28xl-3);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 825px) {
+  .earnMoneyBy,
+  .whatYouLove {
+    font-size: var(--font-size-19xl);
+    line-height: 38px;
+  }
+  .signUpFor {
+    font-size: var(--font-size-5xl);
+    line-height: 29px;
+  }
+  .untitledDesign20240320t1Icon {
+    flex: 1;
+  }
+  .stepFour {
+    flex-wrap: wrap;
+  }
+  .setupContainer {
+    gap: var(--gap-xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .earnMoneyBy,
+  .whatYouLove {
+    font-size: var(--font-size-9xl);
+    line-height: 29px;
+  }
+  .signUpFor {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+  .frequentlyAskedQuestions {
+    font-size: var(--font-size-4xl);
+    line-height: 29px;
+  }
+}

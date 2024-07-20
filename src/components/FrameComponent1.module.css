@@ -1,0 +1,303 @@
+.untitledDesign20240320t1Icon {
+  height: 157.6px;
+  width: 133.1px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.getAQuick,
+.unlockYourInfluencer {
+  position: relative;
+  line-height: 40px;
+}
+.getAQuick {
+  font-size: var(--font-size-3xl-5);
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+  max-width: 100%;
+}
+.frameWrapper,
+.unlockYourInfluencerPotentiParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.unlockYourInfluencerPotentiParent {
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frameWrapper {
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-15xl-8);
+  box-sizing: border-box;
+}
+.untitledDesign20240320t1Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-17xl-7);
+  max-width: 100%;
+}
+.kFollowers {
+  color: var(--color-coral-200);
+}
+.iHave150kContainer {
+  position: relative;
+  line-height: 28px;
+  font-weight: 600;
+}
+.gradient {
+  height: 70px;
+  width: 203.1px;
+  position: relative;
+  background: linear-gradient(91.73deg, #f8f7fd, #df6016);
+}
+.overlayshadow {
+  top: 4.8px;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(41, 17, 105, 0.2);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 1470px;
+  height: 22.4px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.backgroundshadow,
+.k,
+.overlayshadow {
+  position: absolute;
+  display: flex;
+}
+.k {
+  width: 30.6px;
+  margin: 0 !important;
+  bottom: -20.02px;
+  left: -0.02px;
+  line-height: 20px;
+  align-items: center;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.backgroundshadow {
+  top: 0;
+  left: 200.1px;
+  box-shadow: 0 0 12px rgba(41, 17, 105, 0.2);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-lavender);
+  width: 23.5px;
+  height: 32px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.overlayBackground {
+  align-self: stretch;
+  height: 32px;
+  position: relative;
+  font-size: var(--font-size-sm);
+}
+.followersPosts {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.posts {
+  color: var(--color-coral-200);
+}
+.onInstagram {
+  color: var(--color-black);
+}
+.iTypicallyShareAround25Po {
+  font-weight: 600;
+}
+.perMonth {
+  color: var(--color-darkslategray-300);
+}
+.iTypicallyShareContainer {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  max-width: 100%;
+}
+.gradient1 {
+  height: 70px;
+  width: 338.1px;
+  position: relative;
+  background: linear-gradient(91.04deg, #f8f7fd, #df6016);
+  max-width: calc(100% - 0px);
+}
+.overlayshadow1 {
+  position: absolute;
+  top: 4.8px;
+  left: 0;
+  box-shadow: 0 4px 12px rgba(41, 17, 105, 0.2);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightgray);
+  width: 1470px;
+  height: 22.4px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.youjaPerfumePlaceholder {
+  width: 15.8px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -19.99px;
+  left: 0.01px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.backgroundshadow1 {
+  position: absolute;
+  top: 0;
+  left: 330.8px;
+  box-shadow: 0 0 12px rgba(41, 17, 105, 0.2);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-lavender);
+  width: 23.5px;
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.followerInput,
+.shadowContainer {
+  align-self: stretch;
+  max-width: 100%;
+}
+.shadowContainer {
+  height: 32px;
+  position: relative;
+  font-size: var(--font-size-sm);
+}
+.followerInput {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-mid-6);
+}
+.earn,
+.k1 {
+  color: var(--color-coral-200);
+}
+.youHaveTheContainer {
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+  max-width: 100%;
+}
+.basedOnEstimates {
+  position: relative;
+  font-size: var(--font-size-smi);
+  line-height: 20px;
+  color: var(--color-darkslategray-300);
+}
+.backgroundbordershadow,
+.followerInput1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.followerInput1 {
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-3xl-3);
+}
+.backgroundbordershadow {
+  flex: 1;
+  box-shadow: 5px 5px 0#c9c9c9;
+  border-radius: var(--br-base);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  padding: var(--padding-12xl) var(--padding-13xl) var(--padding-44xl);
+  gap: var(--gap-37xl);
+}
+.backgroundbordershadowWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-mini);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-mid-9);
+  color: var(--color-black);
+}
+.backgroundbordershadowWrapper,
+.questionContainer,
+.questionContainerWrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.questionContainer {
+  width: 1551.4px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-xl-1);
+}
+.questionContainerWrapper {
+  width: 1821.7px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-21xl);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-16xl-2);
+  color: var(--color-coral-200);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 825px) {
+  .unlockYourInfluencer {
+    font-size: var(--font-size-9xl);
+    line-height: 32px;
+  }
+  .untitledDesign20240320t1Parent {
+    flex-wrap: wrap;
+    gap: var(--gap-lg);
+  }
+  .backgroundbordershadow {
+    gap: var(--gap-9xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .unlockYourInfluencer {
+    font-size: var(--font-size-2xl);
+    line-height: 24px;
+  }
+  .getAQuick,
+  .youHaveTheContainer {
+    font-size: var(--font-size-lg);
+    line-height: 26px;
+  }
+  .backgroundbordershadow {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-22xl);
+    box-sizing: border-box;
+  }
+}

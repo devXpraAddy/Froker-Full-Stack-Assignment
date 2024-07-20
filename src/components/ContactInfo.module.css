@@ -1,0 +1,29 @@
+.heading4 {
+  position: relative;
+  line-height: 39px;
+}
+.froker1310Pb9ylnjpgIcon {
+  width: 112px;
+  height: 112px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.contactInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base-6);
+  text-align: left;
+  font-size: var(--font-size-6xl-2);
+  color: var(--color-coral-200);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 450px) {
+  .heading4 {
+    font-size: var(--font-size-xl);
+    line-height: 31px;
+  }
+}

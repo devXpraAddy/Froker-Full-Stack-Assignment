@@ -1,0 +1,494 @@
+.frame1171277305PquagqjpgIcon {
+  width: 100%;
+  height: 1200px;
+  position: absolute;
+  margin: 0 !important;
+  top: 120px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.linkImage {
+  height: 57px;
+  width: 115px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.itemLink {
+  display: inline-block;
+  min-width: 52px;
+}
+.itemLink,
+.itemLink1,
+.itemLink2 {
+  text-decoration: none;
+  position: relative;
+  line-height: 40px;
+  color: inherit;
+}
+.itemLink1 {
+  width: 48.2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 48.2px;
+}
+.itemLink2 {
+  white-space: nowrap;
+}
+.itemLinkHomeHomeParent {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-lg-3);
+  color: var(--color-coral-200);
+  font-family: var(--font-inter);
+}
+.nav,
+.navInner {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.navInner {
+  margin: 0;
+  width: 331.2px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.nav {
+  align-self: stretch;
+  background-color: var(--color-white);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-12xl-5) 303px var(--padding-12xl-5) 261px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.benefitsOfUsing {
+  position: relative;
+  line-height: 48px;
+}
+.benefitsOfUsingFroshareWrapper {
+  width: 1857.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.effortlessAffiliateMarketing {
+  width: 309.5px;
+  position: relative;
+  line-height: 4px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.effortlessAffiliateMarketingWrapper {
+  width: 1857.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+  font-size: 12px;
+  color: var(--color-darkslategray-300);
+}
+.wpvz3lpngIcon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.overlay,
+.overlayWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.overlay {
+  flex: 1;
+  background-color: var(--color-orangered-200);
+  flex-direction: column;
+  padding: var(--padding-21xl) var(--padding-11xl) 0 var(--padding-12xl);
+  gap: var(--gap-9xl);
+  z-index: 2;
+}
+.overlayWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 var(--padding-21xl);
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-28xl-3);
+  font-family: var(--font-inter);
+}
+.moreToOffer,
+.overlayWrapper {
+  color: var(--color-coral-200);
+}
+.waitWeHaveContainer {
+  position: relative;
+  line-height: 48px;
+  font-weight: 600;
+}
+.brandCollaboration {
+  width: 1775.5px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.brandCollaboration,
+.fAQHeader,
+.homePageInner,
+.itemLinks {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.itemLinks {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.fAQHeader,
+.homePageInner {
+  flex-direction: row;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.fAQHeader {
+  width: 1970.7px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-43xl) var(--padding-13xl);
+  text-align: left;
+  font-size: 47.1px;
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.homePageInner {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 80px 574px var(--padding-xl);
+}
+.stepOneNumber {
+  position: relative;
+  line-height: 36px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 70.3px;
+}
+.background {
+  background-color: var(--color-chocolate);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xl);
+  white-space: nowrap;
+}
+.signUpOn {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  line-height: 36px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  max-width: 100%;
+}
+.signUpUsing,
+.yourProfileFor {
+  margin: 0;
+}
+.signUpUsingContainer {
+  position: relative;
+  font-size: var(--font-size-3xl-5);
+  line-height: 32px;
+  color: var(--color-darkslategray-300);
+}
+.backgroundParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.stepTwoNumber {
+  position: relative;
+  line-height: 36px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 71px;
+}
+.background1 {
+  background-color: var(--color-chocolate);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xl);
+  white-space: nowrap;
+}
+.setUpYour {
+  position: relative;
+  font-size: 29.8px;
+  line-height: 36px;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.clickOnCheck,
+.store,
+.yourCategoryAnd {
+  margin: 0;
+}
+.clickOnCheckContainer {
+  position: relative;
+  font-size: 22.1px;
+  line-height: 32px;
+  color: var(--color-darkslategray-300);
+}
+.setupSteps {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  font-size: 27.3px;
+}
+.stepThreeNumber {
+  position: relative;
+  line-height: 36px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 71px;
+}
+.background2 {
+  background-color: var(--color-chocolate);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-lgi) var(--padding-5xs)
+    var(--padding-xl);
+  white-space: nowrap;
+}
+.tagShare {
+  position: relative;
+  font-size: var(--font-size-11xl);
+  line-height: 36px;
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+  max-width: 100%;
+}
+.tagProductsSeamlessly,
+.yourFollowersEffortlessly {
+  margin: 0;
+}
+.tagProductsSeamlesslyContainer {
+  position: relative;
+  font-size: var(--font-size-3xl-3);
+  line-height: 32px;
+  color: var(--color-darkslategray-300);
+}
+.stepTwo {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--font-size-8xl);
+}
+.frameParent,
+.questionItem,
+.stepTwo {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 1000px;
+}
+.questionItem {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 953px 657.9px var(--padding-xl);
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 28.8px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.base3f5339217a654a16332757444Icon {
+  height: 175.8px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.arrozTechnologyAll {
+  position: absolute;
+  margin: 0 !important;
+  right: 831.6px;
+  bottom: 40.7px;
+  line-height: 24px;
+  z-index: 1;
+}
+.copyright,
+.homePage {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+}
+.copyright {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-mini-8);
+  color: var(--color-aliceblue);
+  font-family: var(--font-inter);
+}
+.homePage {
+  width: 100%;
+  height: 12707px;
+  background-color: var(--color-white);
+  overflow-y: auto;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 0 198.1px;
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1550px) {
+  .homePage {
+    height: auto;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .fAQHeader,
+  .nav {
+    box-sizing: border-box;
+  }
+  .nav {
+    padding-left: 130px;
+    padding-right: 151px;
+  }
+  .fAQHeader {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+  }
+  .questionItem {
+    padding-right: 476px;
+    padding-bottom: 278px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .nav {
+    padding-left: 65px;
+    padding-right: 75px;
+    box-sizing: border-box;
+  }
+  .benefitsOfUsing,
+  .waitWeHaveContainer {
+    font-size: var(--font-size-19xl);
+    line-height: 38px;
+  }
+  .itemLinks {
+    gap: var(--gap-xl);
+  }
+  .homePageInner {
+    padding-right: var(--padding-21xl);
+    padding-bottom: 373px;
+    box-sizing: border-box;
+  }
+  .signUpOn,
+  .tagShare {
+    font-size: var(--font-size-5xl);
+    line-height: 29px;
+  }
+  .frameParent {
+    gap: 500px;
+  }
+  .questionItem {
+    padding-right: 238px;
+    padding-bottom: 181px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .navInner {
+    display: none;
+  }
+  .benefitsOfUsing,
+  .waitWeHaveContainer {
+    font-size: var(--font-size-9xl);
+    line-height: 29px;
+  }
+  .signUpOn,
+  .signUpUsingContainer {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+  .signUpUsingContainer {
+    line-height: 26px;
+  }
+  .setUpYour {
+    font-size: var(--font-size-5xl);
+    line-height: 29px;
+  }
+  .clickOnCheckContainer,
+  .tagShare {
+    font-size: var(--font-size-lg);
+    line-height: 26px;
+  }
+  .tagShare {
+    line-height: 22px;
+  }
+  .tagProductsSeamlesslyContainer {
+    font-size: var(--font-size-lg);
+    line-height: 26px;
+  }
+  .frameParent {
+    gap: 250px;
+  }
+  .questionItem {
+    padding-right: var(--padding-xl);
+    padding-bottom: 118px;
+    box-sizing: border-box;
+  }
+}

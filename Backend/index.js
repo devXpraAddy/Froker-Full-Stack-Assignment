@@ -1,27 +1,30 @@
+require("dotenv").config({ path: ".env.local" });
+
 const express = require("express");
 const mongoose = require("mongoose");
-const bodyParser = require("body-parser");
 const cors = require("cors");
-const dotenv = require("dotenv");
-
-dotenv.config();
+const bodyParser = require("body-parser");
 
 const app = express();
-app.use(bodyParser.json());
-app.use(cors());
 
-const PORT = process.env.PORT || 5000;
-const MONGODB_URI = process.env.MONGO_URI;
+// Connect to MongoDB
+const uri = process.env.MONGO_URI;
+
+if (!uri) {
+  console.error("MongoDB URI is not defined in the environment variables");
+  process.exit(1);
+}
 
 mongoose
-  .connect(MONGODB_URI)
-  .then(() => {
-    console.log("Connected to MongoDB");
-  })
-  .catch((error) => {
-    console.error("Error connecting to MongoDB:", error.message);
-  });
+  .connect(uri)
+  .then(() => console.log("Connected to MongoDB"))
+  .catch((err) => console.error("Error connecting to MongoDB:", err.message));
 
+// Middleware
+app.use(cors());
+app.use(bodyParser.json());
+
+// Blog Schema
 const blogSchema = new mongoose.Schema({
   title: String,
   content: String,
@@ -31,45 +34,31 @@ const blogSchema = new mongoose.Schema({
 
 const Blog = mongoose.model("Blog", blogSchema);
 
+// Routes
 app.get("/blogs", async (req, res) => {
   try {
     const blogs = await Blog.find();
     res.json(blogs);
-  } catch (error) {
-    res.status(500).json({ message: "Error fetching blogs", error });
+  } catch (err) {
+    res.status(500).json({ message: err.message });
   }
 });
 
-app.post("/blogs/:id/like", async (req, res) => {
+app.patch("/blogs/:id/like", async (req, res) => {
   try {
     const blog = await Blog.findById(req.params.id);
-    if (blog) {
-      blog.likes += 1;
-      await blog.save();
-      res.json(blog);
-    } else {
-      res.status(404).json({ message: "Blog not found" });
-    }
-  } catch (error) {
-    res.status(500).json({ message: "Error liking blog", error });
+    if (!blog) return res.status(404).json({ message: "Blog not found" });
+
+    blog.likes += 1;
+    await blog.save();
+    res.json(blog);
+  } catch (err) {
+    res.status(500).json({ message: err.message });
   }
 });
 
-app.post("/blogs/:id/unlike", async (req, res) => {
-  try {
-    const blog = await Blog.findById(req.params.id);
-    if (blog) {
-      blog.likes -= 1;
-      await blog.save();
-      res.json(blog);
-    } else {
-      res.status(404).json({ message: "Blog not found" });
-    }
-  } catch (error) {
-    res.status(500).json({ message: "Error unliking blog", error });
-  }
-});
-
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+// Start the server
+const port = process.env.PORT || 5000;
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
 });

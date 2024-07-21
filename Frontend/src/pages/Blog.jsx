@@ -14,8 +14,15 @@ const Blog = () => {
     // other fields as needed
   });
 
+  const [liked, setLiked] = useState(false); // State to track if the post is liked
+
   const handleLike = () => {
-    setBlog((prevBlog) => ({ ...prevBlog, likes: prevBlog.likes + 1 }));
+    if (liked) {
+      setBlog((prevBlog) => ({ ...prevBlog, likes: prevBlog.likes - 1 }));
+    } else {
+      setBlog((prevBlog) => ({ ...prevBlog, likes: prevBlog.likes + 1 }));
+    }
+    setLiked(!liked); // Toggle the liked state
   };
 
   return (

@@ -21,7 +21,11 @@ mongoose
   .catch((err) => console.error("Error connecting to MongoDB:", err.message));
 
 // Middleware
-app.use(cors());
+app.use(
+  cors({
+    origin: "http://localhost:5173/",
+  })
+);
 app.use(bodyParser.json());
 
 // Blog Schema

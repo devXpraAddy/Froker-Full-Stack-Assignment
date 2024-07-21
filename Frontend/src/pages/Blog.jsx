@@ -1,6 +1,23 @@
+import React, { useState } from "react";
 import styles from "./Blog.module.css";
 
 const Blog = () => {
+  // Initialize the blog state with a default value
+  const [blog, setBlog] = useState({
+    _id: "1",
+    title:
+      "Mastering the Art of Content Creation: Strategies for Success in the Digital Era",
+    content:
+      "Welcome to the dynamic world of content creation, where creativity knows no bounds and innovation thrives...",
+    author: "Varshita",
+    likes: 50, // Initial likes count
+    // other fields as needed
+  });
+
+  const handleLike = () => {
+    setBlog((prevBlog) => ({ ...prevBlog, likes: prevBlog.likes + 1 }));
+  };
+
   return (
     <div className={styles.blog1}>
       <div className={styles.blogParent}>
@@ -44,7 +61,7 @@ const Blog = () => {
           <div className={styles.frameParent}>
             <div className={styles.authorNameParent}>
               <div className={styles.authorName}>
-                <div className={styles.byVarshita}>by Varshita</div>
+                <div className={styles.byVarshita}>by {blog.author}</div>
               </div>
               <div className={styles.svgWrapper}>
                 <img
@@ -56,10 +73,7 @@ const Blog = () => {
               </div>
               <div className={styles.minuteRead}>2 minute read</div>
             </div>
-            <b className={styles.titleMasteringThe2}>
-              Title: Mastering the Art of Content Creation: Strategies for
-              Success in the Digital Era
-            </b>
+            <b className={styles.titleMasteringThe2}>Title: {blog.title}</b>
           </div>
         </div>
         <div className={styles.artboardNe0yo2jpgParent}>
@@ -68,9 +82,11 @@ const Blog = () => {
             loading="lazy"
             alt=""
             src="/artboard-ne0yo2jpg@2x.png"
+            onClick={handleLike} // Add onClick handler here
+            style={{ cursor: "pointer" }} // Add pointer cursor to indicate it's clickable
           />
           <div className={styles.likesWrapper}>
-            <div className={styles.likes}>50 Likes</div>
+            <div className={styles.likes}>{blog.likes} Likes</div>
           </div>
         </div>
       </section>
